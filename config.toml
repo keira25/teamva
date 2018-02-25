@@ -1,4 +1,4 @@
-baseURL = "http://teamva.netlify.com/"
+baseURL = "teamva.netlify.com/"
 title = "TeamVA"
 subtitle = "Travel theme for Hugo with Slider"
 languageCode = "en-us"
